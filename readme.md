@@ -7,6 +7,7 @@ Download the .smx file and place it into your csgo/addons/sourcemod/plugins fold
 
 <h3>Usage:</h3>
 Console:
-sm_hostworkshop <id>
+sm_hostworkshop \<id>
+
 Chat:
-!hostworkshop <id>
+!hostworkshop \<id>
